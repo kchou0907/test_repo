@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi
+=======
+hihi
+hihihihi
+>>>>>>> b4fb8cd9dc7da7dbbca85d5ded016a6261852fc6
